@@ -10,3 +10,5 @@ upload_training_materials.py
 .vscode/settings.json
 
 .DS_Store
+documentation/Lib
+documentation/Scripts

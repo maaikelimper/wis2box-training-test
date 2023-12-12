@@ -29,6 +29,7 @@ nav:
         - YAML: cheatsheets/yaml.md
         - WIS2 in a box: cheatsheets/wis2box.md
 
+
 strict: true
 
 use_directory_urls: true
@@ -47,7 +48,7 @@ plugins:
     - search
     - table-reader
     - print-site
-
+    
 markdown_extensions:
     - admonition
     - attr_list
@@ -60,3 +61,15 @@ markdown_extensions:
 
 extra_css:
     - assets/css/custom.css
+
+plugins:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: es
+          name: Español
+          build: true

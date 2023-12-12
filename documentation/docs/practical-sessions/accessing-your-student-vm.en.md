@@ -90,80 +90,80 @@ Retype new password:
 passwd: password updated successfully
 ```
 
-## Verify software versions
+## Verificar versiones de software
 
-To be able to run wis2box, the student VM should have Python, Docker and Docker Compose pre-installed. 
+Para poder ejecutar wis2box, la VM de estudiante debe tener Python, Docker y Docker Compose preinstalados.
 
-Check Python version:
+Verificar la versión de Python:
 ```bash
 python3 --version
 ```
-returns:
+devuelve:
 ```console
 Python 3.10.12
 ```
 
-Check docker version:
+Verificar la versión de Docker:
 ```bash
 docker --version
 ```
-returns:
+devuelve:
 ```console
 Docker version 24.0.6, build ed223bc
 ```
 
-Check Docker Compose version:
+Verificar la versión de Docker Compose:
 ```bash
 docker compose version
 ```
-returns:
+devuelve:
 ```console
 Docker Compose version v2.21.0
 ```
 
-To ensure your user can run Docker commands your user has been added to the `docker` group. 
+Para asegurarte de que tu usuario pueda ejecutar comandos de Docker, tu usuario ha sido agregado al grupo docker.
 
-To test that your user can run docker hello-world, run the following command:
+Para probar que tu usuario pueda ejecutar 'hello-world' de Docker, ejecuta el siguiente comando:
 ```bash
 docker run hello-world
 ```
 
-returns:
+devuelve:
 ```console
 Hello from Docker!
 This message shows that your installation appears to be working correctly.
 ...
 ```
 
-## Inspect the exercise materials
+## Inspeccionar los materiales de ejercicio
 
-Inspect the contents of your home directory; these are the materials used as part of the training and practical sessions.
+Inspeccionar el contenido de tu directorio de inicio; estos son los materiales utilizados como parte del entrenamiento y las sesiones prácticas.
 
 ```bash
 ls ~/
 ```
-returns:
+devuelve:
 ```console
 exercise-materials  wis2box-1.0b5
 ```
 
-You can use WinSCP to connect to your instance and inspect the contents of your home directory and download or upload files between your VM and your local PC.
+Puedes usar WinSCP para conectarte a tu instancia e inspeccionar el contenido de tu directorio de inicio y descargar o cargar archivos entre tu VM y tu PC local.
 
-Open WinSCP and click on the "New Site". You can create a new SCP connection to your VM as follows:
+Abre WinSCP y haz clic en "New Site". Puedes crear una nueva conexión SCP a tu VM de la siguiente manera:
 
-<img alt="winscp-student-vm-scp.png" src="../../assets/img/winscp-student-vm-scp.png" width="400">
+![Captura de pantalla de WinSCP](../assets/img/winscp-student-vm-scp.png)
 
-Click 'Save' and then 'Login' to connect to your VM.
+Haz clic en 'Guardar' y luego 'Iniciar sesión' para conectarte a tu VM.
 
-And you should be able to see the following content:
+Y deberías poder ver el siguiente contenido:
 
-<img alt="winscp-student-vm-exercise-materials.png" src="../../assets/img/winscp-student-vm-exercise-materials.png" width="600">
+![Contenido en WinSCP](../assets/img/winscp-student-vm-exercise-materials.png)
 
-## Conclusion
+## Conclusión
 
-!!! success "Congratulations!"
-    In this practical session, you learned how to:
+!!! success "¡Felicidades!"
+    En esta sesión práctica, aprendiste cómo:
 
-    - access your student VM over SSH and WinSCP
-    - verify the required software for the practical exercises is installed
-    - verify you have access to exercise materials for this training on your local student VM
+    - acceder a tu VM de estudiante mediante SSH y WinSCP
+    - verificar que el software necesario para los ejercicios prácticos esté instalado
+    - verificar que tienes acceso a los materiales de ejercicio para este entrenamiento en tu VM local de estudiante
