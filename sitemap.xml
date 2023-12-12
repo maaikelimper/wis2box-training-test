@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/cheatsheets/docker/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/cheatsheets/docker/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/docker/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/cheatsheets/linux/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/cheatsheets/linux/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/linux/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/cheatsheets/wis2box/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/cheatsheets/wis2box/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/wis2box/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/cheatsheets/yaml/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/cheatsheets/yaml/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/yaml/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/accessing-your-student-vm/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/accessing-your-student-vm/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/accessing-your-student-vm/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/automating-data-ingestion/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/automating-data-ingestion/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/automating-data-ingestion/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/bufr-command-line-tools/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/bufr-command-line-tools/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/bufr-command-line-tools/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/configuring-station-metadata/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/configuring-station-metadata/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/configuring-station-metadata/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/configuring-wis2-discovery-metadata/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/configuring-wis2-discovery-metadata/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/configuring-wis2-discovery-metadata/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/connecting-to-wis2-over-mqtt/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/connecting-to-wis2-over-mqtt/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/connecting-to-wis2-over-mqtt/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/converting-csv-data-to-bufr/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/converting-csv-data-to-bufr/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/converting-csv-data-to-bufr/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/converting-synop-data-to-bufr/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/converting-synop-data-to-bufr/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/converting-synop-data-to-bufr/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/downloading-and-finding-data-from-wis2/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/downloading-and-finding-data-from-wis2/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/downloading-and-finding-data-from-wis2/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/initializing-wis2box/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/initializing-wis2box/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/initializing-wis2box/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/practical-sessions/querying-data-using-the-wis2box-api/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/querying-data-using-the-wis2box-api/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/querying-data-using-the-wis2box-api/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/docker/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/docker/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/cheatsheets/docker/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/linux/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/linux/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/cheatsheets/linux/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/wis2box/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/wis2box/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/cheatsheets/wis2box/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/yaml/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/cheatsheets/yaml/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/cheatsheets/yaml/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/accessing-your-student-vm/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/accessing-your-student-vm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/accessing-your-student-vm/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/automating-data-ingestion/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/automating-data-ingestion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/automating-data-ingestion/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/bufr-command-line-tools/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/bufr-command-line-tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/bufr-command-line-tools/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/configuring-station-metadata/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/configuring-station-metadata/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/configuring-station-metadata/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/configuring-wis2-discovery-metadata/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/configuring-wis2-discovery-metadata/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/configuring-wis2-discovery-metadata/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/connecting-to-wis2-over-mqtt/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/connecting-to-wis2-over-mqtt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/connecting-to-wis2-over-mqtt/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/converting-csv-data-to-bufr/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/converting-csv-data-to-bufr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/converting-csv-data-to-bufr/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/converting-synop-data-to-bufr/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/converting-synop-data-to-bufr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/converting-synop-data-to-bufr/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/downloading-and-finding-data-from-wis2/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/downloading-and-finding-data-from-wis2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/downloading-and-finding-data-from-wis2/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/initializing-wis2box/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/initializing-wis2box/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/initializing-wis2box/"/>
+    </url>
+    <url>
+        <loc>https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/querying-data-using-the-wis2box-api/</loc>
+        <lastmod>2023-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://maaikelimper.github.io/wis2box-training-test/es/practical-sessions/querying-data-using-the-wis2box-api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maaikelimper.github.io/wis2box-training-test/practical-sessions/querying-data-using-the-wis2box-api/"/>
+    </url>
+</urlset>
