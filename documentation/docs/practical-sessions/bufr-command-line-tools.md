@@ -95,7 +95,7 @@ contents of the file. The following headers are included in a BUFR file:
 Download the example file directly into the wis2box-management container using the following command:
 
 ``` {.copy}
-curl https://training.wis2box.wis.wmo.int/sample-data/bufr-cli-ex1.bufr4 --output bufr-cli-ex1.bufr4
+curl https://maaikelimper.github.io/wis2box-training-test/sample-data/bufr-cli-ex1.bufr4 --output bufr-cli-ex1.bufr4
 ```
 
 Now use the following command to run `bufr_ls` on this file:
@@ -260,7 +260,7 @@ In this exercise we will use a BUFR file that is the same as your created during
 Download the sample-file to the wis2box management container directly with the following command:
 
 ``` {.copy}
-curl https://training.wis2box.wis.wmo.int/sample-data/bufr-cli-ex2.bufr4 --output bufr-cli-ex2.bufr4
+curl https://maaikelimper.github.io/wis2box-training-test/sample-data/bufr-cli-ex2.bufr4 --output bufr-cli-ex2.bufr4
 ```
 
 Now run the `bufr_dump` command on the file, using the `-p` flag to output the data in plain text (key=value format):
@@ -280,7 +280,7 @@ You should see around 240 keys output, many of which are missing. This is typica
 The example BUFR file for this exercise comes from the csv2bufr practical session. Please download the original CSV file into your current location as follows:
 
 ```{.copy}
-curl https://training.wis2box.wis.wmo.int/sample-data/csv2bufr-ex1.csv --output csv2bufr-ex1.csv
+curl https://maaikelimper.github.io/wis2box-training-test/sample-data/csv2bufr-ex1.csv --output csv2bufr-ex1.csv
 ```
 
 And display the content of the file with:
@@ -542,7 +542,7 @@ Edit the file using `vi` or your favourite text editor and update the value of t
 Now try the commands from the block below:
 
 ```{.copy}
-curl https://training.wis2box.wis.wmo.int/sample-data/csv2bufr-ex1.csv --output csv2bufr-ex1.csv
+curl https://maaikelimper.github.io/wis2box-training-test/sample-data/csv2bufr-ex1.csv --output csv2bufr-ex1.csv
 export CSV2BUFR_TEMPLATES=/data/wis2box/bufr-templates
 csv2bufr data transform --bufr-template aws-template-custom csv2bufr-ex1.csv
 ```

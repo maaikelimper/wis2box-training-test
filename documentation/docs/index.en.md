@@ -87,7 +87,7 @@ Container names (running images) are denoted in **bold**.
 
 ## Training location and materials
 
-This training is always provided live at [https://training.wis2box.wis.wmo.int](https://training.wis2box.wis.wmo.int).
+This training is always provided live at [https://maaikelimper.github.io/wis2box-training-test](https://maaikelimper.github.io/wis2box-training-test).
 
 The training contents, wiki and issue tracker are managed on GitHub at [https://github.com/wmo-im/wis2box-training](https://github.com/wmo-im/wis2box-training).
 
@@ -98,7 +98,7 @@ File > Print > Save as PDF.
 
 ## Exercise materials
 
-Exercise materials can be downloaded from the [exercise-materials.zip](https://training.wis2box.wis.wmo.int/exercise-materials.zip) zipfile.
+Exercise materials can be downloaded from the [exercise-materials.zip](https://maaikelimper.github.io/wis2box-training-test/exercise-materials.zip) zipfile.
 
 
 ## Support

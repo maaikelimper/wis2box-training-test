@@ -48,7 +48,7 @@ Tu VM de estudiante tiene el siguiente software preinstalado:
     El material de ejercicio utilizado en este entrenamiento se puede descargar de la siguiente manera:
 
     ```bash
-    wget https://training.wis2box.wis.wmo.int/exercise-materials.zip
+    wget https://maaikelimper.github.io/wis2box-training-test/exercise-materials.zip
     unzip exercise-materials.zip
     ```
 
