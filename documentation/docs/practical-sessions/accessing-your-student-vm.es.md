@@ -89,3 +89,81 @@ Nueva contraseña:
 Vuelve a escribir la nueva contraseña:
 passwd: la contraseña se actualizó correctamente
 ```
+
+## Verificar versiones de software
+
+Para poder ejecutar wis2box, la VM de estudiante debe tener Python, Docker y Docker Compose preinstalados.
+
+Verificar la versión de Python:
+```bash
+python3 --version
+```
+devuelve:
+```console
+Python 3.10.12
+```
+
+Verificar la versión de Docker:
+```bash
+docker --version
+```
+devuelve:
+```console
+Docker version 24.0.6, build ed223bc
+```
+
+Verificar la versión de Docker Compose:
+```bash
+docker compose version
+```
+devuelve:
+```console
+Docker Compose version v2.21.0
+```
+
+Para asegurarte de que tu usuario pueda ejecutar comandos de Docker, tu usuario ha sido agregado al grupo docker.
+
+Para probar que tu usuario pueda ejecutar 'hello-world' de Docker, ejecuta el siguiente comando:
+```bash
+docker run hello-world
+```
+
+devuelve:
+```console
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+...
+```
+
+## Inspeccionar los materiales de ejercicio
+
+Inspeccionar el contenido de tu directorio de inicio; estos son los materiales utilizados como parte del entrenamiento y las sesiones prácticas.
+
+```bash
+ls ~/
+```
+devuelve:
+```console
+exercise-materials  wis2box-1.0b5
+```
+
+Puedes usar WinSCP para conectarte a tu instancia e inspeccionar el contenido de tu directorio de inicio y descargar o cargar archivos entre tu VM y tu PC local.
+
+Abre WinSCP y haz clic en "New Site". Puedes crear una nueva conexión SCP a tu VM de la siguiente manera:
+
+![Captura de pantalla de WinSCP](../assets/img/winscp-student-vm-scp.png)
+
+Haz clic en 'Guardar' y luego 'Iniciar sesión' para conectarte a tu VM.
+
+Y deberías poder ver el siguiente contenido:
+
+![Contenido en WinSCP](../assets/img/winscp-student-vm-exercise-materials.png)
+
+## Conclusión
+
+!!! success "¡Felicidades!"
+    En esta sesión práctica, aprendiste cómo:
+
+    - acceder a tu VM de estudiante mediante SSH y WinSCP
+    - verificar que el software necesario para los ejercicios prácticos esté instalado
+    - verificar que tienes acceso a los materiales de ejercicio para este entrenamiento en tu VM local de estudiante

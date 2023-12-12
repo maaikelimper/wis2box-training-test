@@ -48,7 +48,7 @@ Your student VM has the following software pre-installed:
     The exercise material used in this training can be downloaded as follows:
 
     ```bash
-    wget https://maaikelimper.github.io/wis2box-training-test/exercise-materials.zip
+    wget https://training.wis2box.wis.wmo.int/exercise-materials.zip
     unzip exercise-materials.zip
     ```
 
@@ -90,80 +90,80 @@ Retype new password:
 passwd: password updated successfully
 ```
 
-## Verificar versiones de software
+## Verify software versions
 
-Para poder ejecutar wis2box, la VM de estudiante debe tener Python, Docker y Docker Compose preinstalados.
+To be able to run wis2box, the student VM should have Python, Docker and Docker Compose pre-installed. 
 
-Verificar la versión de Python:
+Check Python version:
 ```bash
 python3 --version
 ```
-devuelve:
+returns:
 ```console
 Python 3.10.12
 ```
 
-Verificar la versión de Docker:
+Check docker version:
 ```bash
 docker --version
 ```
-devuelve:
+returns:
 ```console
 Docker version 24.0.6, build ed223bc
 ```
 
-Verificar la versión de Docker Compose:
+Check Docker Compose version:
 ```bash
 docker compose version
 ```
-devuelve:
+returns:
 ```console
 Docker Compose version v2.21.0
 ```
 
-Para asegurarte de que tu usuario pueda ejecutar comandos de Docker, tu usuario ha sido agregado al grupo docker.
+To ensure your user can run Docker commands your user has been added to the `docker` group. 
 
-Para probar que tu usuario pueda ejecutar 'hello-world' de Docker, ejecuta el siguiente comando:
+To test that your user can run docker hello-world, run the following command:
 ```bash
 docker run hello-world
 ```
 
-devuelve:
+returns:
 ```console
 Hello from Docker!
 This message shows that your installation appears to be working correctly.
 ...
 ```
 
-## Inspeccionar los materiales de ejercicio
+## Inspect the exercise materials
 
-Inspeccionar el contenido de tu directorio de inicio; estos son los materiales utilizados como parte del entrenamiento y las sesiones prácticas.
+Inspect the contents of your home directory; these are the materials used as part of the training and practical sessions.
 
 ```bash
 ls ~/
 ```
-devuelve:
+returns:
 ```console
 exercise-materials  wis2box-1.0b5
 ```
 
-Puedes usar WinSCP para conectarte a tu instancia e inspeccionar el contenido de tu directorio de inicio y descargar o cargar archivos entre tu VM y tu PC local.
+You can use WinSCP to connect to your instance and inspect the contents of your home directory and download or upload files between your VM and your local PC.
 
-Abre WinSCP y haz clic en "New Site". Puedes crear una nueva conexión SCP a tu VM de la siguiente manera:
+Open WinSCP and click on the "New Site". You can create a new SCP connection to your VM as follows:
 
-![Captura de pantalla de WinSCP](../assets/img/winscp-student-vm-scp.png)
+<img alt="winscp-student-vm-scp.png" src="../../assets/img/winscp-student-vm-scp.png" width="400">
 
-Haz clic en 'Guardar' y luego 'Iniciar sesión' para conectarte a tu VM.
+Click 'Save' and then 'Login' to connect to your VM.
 
-Y deberías poder ver el siguiente contenido:
+And you should be able to see the following content:
 
-![Contenido en WinSCP](../assets/img/winscp-student-vm-exercise-materials.png)
+<img alt="winscp-student-vm-exercise-materials.png" src="../../assets/img/winscp-student-vm-exercise-materials.png" width="600">
 
-## Conclusión
+## Conclusion
 
-!!! success "¡Felicidades!"
-    En esta sesión práctica, aprendiste cómo:
+!!! success "Congratulations!"
+    In this practical session, you learned how to:
 
-    - acceder a tu VM de estudiante mediante SSH y WinSCP
-    - verificar que el software necesario para los ejercicios prácticos esté instalado
-    - verificar que tienes acceso a los materiales de ejercicio para este entrenamiento en tu VM local de estudiante
+    - access your student VM over SSH and WinSCP
+    - verify the required software for the practical exercises is installed
+    - verify you have access to exercise materials for this training on your local student VM
